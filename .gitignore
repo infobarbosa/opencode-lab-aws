@@ -1,0 +1,13 @@
+# Arquivos de chave e credenciais AWS
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Arquivos de sistema e editores
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
